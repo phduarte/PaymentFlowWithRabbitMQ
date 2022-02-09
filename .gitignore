@@ -3,3 +3,15 @@
 ################################################################################
 
 /.vs/EventDrivenPaymentFlow
+/EventDrivenPaymentFlow.Data/bin/Debug/net5.0
+/EventDrivenPaymentFlow.Data/obj
+/EventDrivenPaymentFlow.Domain/bin/Debug/net5.0
+/EventDrivenPaymentFlow.Domain/obj
+/EventDrivenPaymentFlow.Infra/bin/Debug/net5.0
+/EventDrivenPaymentFlow.Infra/obj
+/EventDrivenPaymentFlow.PaymentRefundConsumer/bin/Debug/net5.0
+/EventDrivenPaymentFlow.PaymentRefundConsumer/obj
+/EventDrivenPaymentFlow.PaymentRequestConsumer/bin/Debug/net5.0
+/EventDrivenPaymentFlow.PaymentRequestConsumer/obj
+/EventDrivenPaymentFlow.PaymentRequestProducer/bin/Debug/net5.0
+/EventDrivenPaymentFlow.PaymentRequestProducer/obj
