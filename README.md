@@ -53,7 +53,7 @@ Essa é a classe responsável por facilitar a gestão das filas, atualmente ela 
 | Setup | Cria a fila caso ela ainda não exista. |
 | Publish | Adiciona uma mensagem na fila. |
 | StartConsume | Inicia o consumo da fila. |
-| MessageReceivedEventHandler | Evento que dispara sempre que uma nova mensagem é recebida na fila. |
+| MessageReceived | Evento que dispara sempre que uma nova mensagem é recebida na fila. |
 
 ## Requisitos
 
